@@ -1,0 +1,83 @@
+{
+    "enter_shop_information":[
+        "肯德基",
+        "黄七姑烧仙草",
+        "香格里拉酒店"
+    ],
+    "best_goods_list":[
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/banner.png",
+            "goods_name":"黄七姑烧仙草1",
+            "goods_content":"my best love",
+            "goods_description":"黄七姑烧仙草，你的最爱",
+            "goods_price":"34"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/banner.png",
+            "goods_name":"黄七姑烧仙草2",
+            "goods_content":"my best love",
+            "goods_description":"黄七姑烧仙草，你的最爱",
+            "goods_price":"34"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/banner.png",
+            "goods_name":"黄七姑烧仙草3",
+            "goods_content":"my best love",
+            "goods_description":"黄七姑烧仙草，你的最爱",
+            "goods_price":"34"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/banner.png",
+            "goods_name":"黄七姑烧仙草4",
+            "goods_content":"my best love",
+            "goods_description":"黄七姑烧仙草，你的最爱",
+            "goods_price":"34"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/api/public/static/img/banner.png",
+            "goods_name":"黄七姑烧仙草5",
+            "goods_content":"my best love",
+            "goods_description":"黄七姑烧仙草，你的最爱",
+            "goods_price":"34"
+        }
+    ],
+    "star_store":{
+        "shop_main_image":"http://192.168.1.43/api/public/static/img/banner.png",
+        "shop_name":"黄七姑烧仙草",
+        "shop_content":"78年传承工艺，超级好吃，贼好吃，嗷嗷好吃，经过七七四十九天秘法熬制",
+        "shop_description":"怕长肉，吃烧仙草"
+    },
+    "nearby_shop":[
+        {
+            "top_description":"不贿赂小编是上不来的哦！！！",
+            "shop_main_image":"http://192.168.1.43/api/public/static/img/near_store.png",
+            "shop_description":"怕长肉，吃烧仙草",
+            "shop_name":"黄七姑烧仙草",
+            "shop_location":"香溢大厦店"
+        },
+        {
+            "top_description":"不贿赂小编是上不来的哦！！！",
+            "shop_main_image":"http://192.168.1.43/api/public/static/img/near_store.png",
+            "shop_description":"怕长肉，吃烧仙草",
+            "shop_name":"黄七姑烧仙草",
+            "shop_location":"中影国际店"
+        }
+    ],
+    "recommended_product":[
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/recommended_product.png",
+            "goods_name":"黄七姑烧仙草1",
+            "goods_price":"12"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/recommended_product.png",
+            "goods_name":"黄七姑烧仙草2",
+            "goods_price":"12"
+        },
+        {
+            "goods_main_image":"http://192.168.1.43/api/public/static/img/recommended_product.png",
+            "goods_name":"黄七姑烧仙草2",
+            "goods_price":"12"
+        }
+    ]
+}
